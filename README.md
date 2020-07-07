@@ -8,7 +8,7 @@ Personal projects on machine learning and data analysis.
 
 In this work, we explore NYC's MTA subway usage data and predict future number of passengers.
 
-[Code](https://nbviewer.jupyter.org/github.com/farzinshams/farzinshams.github.io/blob/master/Portfolio/NYC%20Subway%20Prediction/NYC.ipynb) (English)
+[Code](https://nbviewer.jupyter.org/github/farzinshams/farzinshams.github.io/blob/master/Portfolio/NYC%20Subway%20Prediction/NYC.ipynb) (English)
 
 
 ---
